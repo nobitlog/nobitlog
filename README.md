@@ -5,7 +5,7 @@ Student at Davao del Norte State College, Philippines. Building projects, captur
 ---
 
 ## About
-
+https://github.com/nobitlog
 I am a 2nd year IT student at Davao del Norte State College (DNSC) in Panabo City, Davao del Norte, Philippines. I enjoy building useful things through code, telling stories through video and photography, and expressing myself through music. Always curious and continuously growing through hands-on projects and self-study.
 
 ---
