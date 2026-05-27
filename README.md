@@ -1,7 +1,7 @@
 # Novie Jay Payot
  
 Student at Davao del Norte State College, Philippines. Building projects, capturing moments, and learning something new every day.
- 
+ https://github.com/nobitlog/Novie-Payot
 ---
  
 ## About
